@@ -1,11 +1,10 @@
-<h1 align="center">GEOFFCHARGE</h1>
-
 ``` c
 #include <stdio.h>
 
 int main()
 {
-    printf("Hello World!");
+    printf("Hello World!\n");
+    printf("My AKA is GEOFFCHARGE");
     return 0;
 }
 
