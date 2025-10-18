@@ -7,12 +7,17 @@ int main()
 {
     printf("Hello World!\n");
     printf("My AKA is GEOFFCHARGE.\n");
-    printf("Nothing Here..");
+    printf("Keep Learning 🔥🔥🔥.");
     return 0;
 }
 ```
 
-<h2>🚀 Some Tools I Have Used and Learned</h2>
+<h2 align="center">💾 I've been working on</h2>
+<p align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFFCHARGE&layout=compact&theme=transparent&title_color=F5F5F5&text_color=F5F5F5"/>
+</p>
+
+<h2 align="center">🚀 Other Tools I've Used and Learned</h2>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
