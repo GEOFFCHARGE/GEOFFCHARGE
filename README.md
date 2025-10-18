@@ -1,4 +1,4 @@
-<h1 align="center">💻 Welcome to My Code Archives</h1>
+<h1 align="left">💻 Welcome to My Code Archives</h1>
 
 ``` c
 #include <stdio.h>
@@ -12,13 +12,8 @@ int main()
 }
 ```
 
-<h2 align="center">💾 I've been working on</h2>
-<p align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFFCHARGE&layout=compact&theme=transparent&title_color=F5F5F5&text_color=F5F5F5"/>
-</p>
-
-<h2 align="center">🚀 Other Tools I've Used and Learned</h2>
-<p align="center">
+<h2 align="left">🚀 Tools I've Used & Learned</h2>
+<p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
@@ -32,4 +27,7 @@ int main()
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+<p align="left">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFFCHARGE&layout=compact&theme=transparent&title_color=F5F5F5&text_color=F5F5F5"/>
 </p>
