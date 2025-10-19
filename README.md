@@ -12,15 +12,13 @@ int main()
 }
 ```
 
-<h2 align="left">🚀 Languages and Tools I've Learned</h2>
+<h2 align="left">🧠 Skills & Tools I've Acquired</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,c,arduino,mysql,html,css,js,github,git,vscode,linux"/>
+    <img src="https://skillicons.dev/icons?i=py,java,c,arduino,mysql,html,css,js,vscode,github,git,figma,windows,linux"/>
 </p>
 
-</p>
-
-<h2 align="left">🏆 My Github Stats</h2>
+<h2 align="left">🚀 Contributions Summary</h2>
 <p align="center">
     <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=GEOFFCHARGE&rank_icon=github&show_icons=true&custom_title=GitHub+Stats&include_all_commits=true&ring_color=0d74e7&title_color=0d74e7&text_color=F5F5F5&icon_color=0d74e7&hide_border=true&theme=transparent"/>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFFCHARGE&layout=compact&size_weight=0&count_weight=1&title_color=0d74e7&text_color=F5F5F5&hide_border=true&theme=transparent"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFFCHARGE&layout=compact&exclude_repo=MULTIMEDIA_Lab&size_weight=1&count_weight=0&title_color=0d74e7&text_color=F5F5F5&hide_border=true&theme=transparent"/>
 </p>
