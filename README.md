@@ -4,7 +4,7 @@
 https://github.com/GEOFFCHARGE
 ```
 
-<h2 align="left">💻 Languages, Framework</h2>
+<h2 align="left">💻 Languages & Framework</h2>
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py,java,c,arduino,mysql,html,css,js,bootstrap"/>
