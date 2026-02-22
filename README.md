@@ -7,7 +7,7 @@ https://github.com/GEOFFCHARGE
 <h2 align="left">💻 Technologies</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,c,arduino,mysql,html,css,js,jquery,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=py,java,c,arduino,html,css,js,bootstrap,tailwind,jquery,express,mysql,sqlite&perline=9"/>
 </p>
 
 <!-- <details>
