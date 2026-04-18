@@ -14,17 +14,13 @@ I am currently interested in **networking** and some **web development** topics
 ## 📂 Featured Projects
 
 * **[Codingo](https://github.com/Harley2zazaa/Codingo_ITKMITL)**
-    > Programming skills learning management system for education and self-development
-    **Tech:** Tailwind, Express.js, SQLite
+    > Programming skills learning management system for education and self-development<br>**Tech:** Tailwind • Express.js • SQLite
 * **[Live Server Stats](https://github.com/Harley2zazaa/mss2025-project-template)**
-    > Automatically monitors and displays the resource usage of an Ubuntu Server
-    **Tech:** Ubuntu, HTML, Bootstrap
+    > Automatically monitors and displays the resource usage of an Ubuntu Server<br>**Tech:** HTML • Bootstrap • Ubuntu
 * **[PomoThink](https://github.com/WissanupongChanliem/Pomodoro-Timer-IOT)**
-    > Smart Pomodoro Timer system using IoT for Productivity Enhancement
-    **Tech:** Arduino, HTML, Bootstrap, Javascript, Firebase
+    > Smart Pomodoro Timer system using IoT for Productivity Enhancement<br>**Tech:** Arduino • HTML • Bootstrap • Javascript • Firebase
 * **[Defense of the Dungeon](https://github.com/jeankmitl/OOP-Project)**
-    > Tower Defense game that will allow players to think, plan and adjust strategies
-    **Tech:** Java
+    > Tower Defense game that will allow players to think, plan and adjust strategies<br>**Tech:** Java
 
 <details>
 
