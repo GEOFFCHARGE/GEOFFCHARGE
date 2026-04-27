@@ -9,18 +9,14 @@ I am currently interested in **networking** and some **web development** topics
 * **Database:** MySQL • SQLite
 * **Tool:** Visual Studio Code • Git • Figma
 * **OS:** Windows • Ubuntu
-* **Network:** Cisco Router/Switch
+* **Network:** Cisco IOS
 
 ## 📂 Featured Projects
 
-* **[Codingo](https://github.com/Harley2zazaa/Codingo_ITKMITL)**
-    > Programming skills learning management system for education and self-development<br>**Tech:** Tailwind • Express.js • SQLite
-* **[Live Server Stats](https://github.com/Harley2zazaa/mss2025-project-template)**
-    > Automatically monitors and displays the resource usage of an Ubuntu Server<br>**Tech:** HTML • Bootstrap • Ubuntu
-* **[PomoThink](https://github.com/WissanupongChanliem/Pomodoro-Timer-IOT)**
-    > Smart Pomodoro Timer system using IoT for Productivity Enhancement<br>**Tech:** Arduino • HTML • Bootstrap • Javascript • Firebase
-* **[Defense of the Dungeon](https://github.com/jeankmitl/OOP-Project)**
-    > Tower Defense game that will allow players to think, plan and adjust strategies<br>**Tech:** Java
+* [**Codingo** - CMS for Programming](https://github.com/Harley2zazaa/Codingo_ITKMITL)
+* [**Live Server Stats** - Ubuntu Server Monitoring](https://github.com/Harley2zazaa/mss2025-project-template)
+* [**PomoThink** - Smart Pomodoro Timer](https://github.com/WissanupongChanliem/Pomodoro-Timer-IOT)
+* [**Defense of the Dungeon** - Tower Defense Game](https://github.com/jeankmitl/OOP-Project)
 
 <details>
 
